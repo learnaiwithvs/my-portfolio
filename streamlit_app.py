@@ -120,4 +120,15 @@ st.header("Certifications")
 st.table({
     "Certification": ["Beginner's Guide to Agile in Jira", "Jira Foundation Badge", "Lean Six Sigma Yellow Belt", "Advanced LSS Yellow Belt", "Lean Six Sigma White Belt", "PMP (In Progress)", "Certified Scrum Master (Planned)"],
     "Issuing Body": ["Atlassian", "Atlassian", "Daniel Holzer", "Sparen & Gewinn Consulting", "Opex Learning", "PMI", "Scrum Alliance"],
-    "Date/ID": ["215343779 | Jul 2022", "213760790 | Jun 2022", "8769Q54C | Jul 2022", "SG0722YB000277 | Jul 2022", "2022993422 | Jun 2022", "Target: 2025-26", "Target: 2025-
+    "Date/ID": ["215343779 | Jul 2022", "213760790 | Jun 2022", "8769Q54C | Jul 2022", "SG0722YB000277 | Jul 2022", "2022993422 | Jun 2022", "Target: 2025-26", "Target: 2025-26"]
+})
+
+# --- EDUCATION ---
+st.header("Education")
+st.write("- **Bachelor of Computer Applications (BCA):** Hindu College - Computer Application (2003-2006)")
+st.write("- **Senior Secondary (+2):** Non-Medical, Punjab School Education Board (2001-2003)")
+st.write("- **High School / Matriculation (10th):** Cedar Spring High School (1999-2001)")
+
+# --- REFEREES ---
+st.write("---")
+st.write("**Professional referees available on request. Australian-based references can be provided.**")
